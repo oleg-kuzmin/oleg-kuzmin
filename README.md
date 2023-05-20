@@ -1,4 +1,3 @@
-<div style="width: 40%; margin: 0 auto">
 <header style="position: relative; padding-top: 20px; padding-bottom: 20px">
   <h1 style="font-size: 24px; margin: 0 0 5px 0; padding: 0; text-align: center">Oleg Kuzmin</h1>
   <address
@@ -69,4 +68,3 @@
     <li style="padding-bottom: 5px">дружелюбный, коммуникабельный, иногда перфекционист, не ленивый ))</li>
   </ul>
 </main>
-</div>
