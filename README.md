@@ -43,6 +43,7 @@
     <li style="padding-bottom: 5px">Figma</li>
     <li style="padding-bottom: 5px">Webpack (общая информация, плагины, настройка сборки, deploy)</li>
     <li style="padding-bottom: 5px">Vscode (горячие клавиши, расширения, Prettier, setting.json)</li>
+    <li style="padding-bottom: 5px">Моя база знаний: https://github.com/oleg-kuzmin/work</li>
   </ul>
 
   <div style="border-bottom: 2px solid black"></div>
