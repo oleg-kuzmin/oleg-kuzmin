@@ -1,8 +1,8 @@
 # Олег Кузьмин
 
 <span>info@oleg-kuzmin.ru</span>
-<!-- <span>|</span> -->
-<!-- <span>+7 (921) 899-40-62</span> -->
+<span>|</span>
+<span>+7 (921) 899-40-62</span>
 
 ## Technical Skills:
 
@@ -18,8 +18,8 @@
 - VSCODE (горячие клавиши, расширения, Prettier, настройка setting.json)
 - Моя база знаний: https://github.com/oleg-kuzmin/work
 - Портфолио:
-  - https://oleg-kuzmin.github.io/food-delivery/
-    (React приложение, адаптив, api)
+  - https://next-food-delivery-indol.vercel.app/
+    (Next14-приложение с React и Redux toolkit, адаптив, верстка Perfect Pixel, api для поиска адреса, используется swiper, react-transition-group)
   - https://oleg-kuzmin.github.io/mesto-project/
     (JS приложение на ООП, адаптив, классы, модули, bem, webpack, api )
   - https://oleg-kuzmin.github.io/film-camera-repair/
@@ -43,4 +43,4 @@
 
 ## Learning now:
 
-- React
+- React, Next
