@@ -1,7 +1,9 @@
 # Олег Кузьмин
 
 <span>info@oleg-kuzmin.ru</span>
+<span>|</span>
 <span>+7 (921) 899-40-62</span>
+<span>|</span>
 <span>https://t.me/Oleg_Kuzmin_Web</span>
 
 ## Technical Skills:
