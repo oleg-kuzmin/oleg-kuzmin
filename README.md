@@ -20,7 +20,7 @@
 
 ## Learning now:
 
-- React (функциональный подход), Next (через App Router) и TypeScript. Вы можете оценить мой подход к обучению и структурированию информации посмотрев эту шпаргалку: https://github.com/oleg-kuzmin/work
+- React (функциональный подход), Next (через App Router) и TypeScript.
 
 ## Projects:
 
