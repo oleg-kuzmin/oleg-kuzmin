@@ -25,12 +25,12 @@
 ## Projects:
 
 - https://next-food-delivery-indol.vercel.app/
-  (Next14-приложение интернет-магазина с React и Redux toolkit, адаптив, верстка Perfect Pixel, api для поиска адреса, используется swiper, react-transition-group)
+(Next-приложение: интернет-магазин на React и Redux toolkit, адаптив, верстка Perfect Pixel, несколько страниц с роутингом, api для поиска адреса, форма, валидация формы, используются дополнительные библиотеки swiper (настраивается адаптивно в зависимости от разрешения), react-transition-group)
 - https://oleg-kuzmin.github.io/mesto-project/
-  (JS приложение на ООП, адаптив, классы, модули, bem, webpack, api)
+(JS приложение на ООП, похоже на instagram с загрузкой красивых карточек мест, можно лайкать карточки, удалять, добавлять, менять данные пользователя, проект собирается с помощью Webpack, использует разные REST API к серверу, адаптивная верстка, bem, кастомная валидация формы, сделано по макету из Figma, Perfect Pixel)
 - https://oleg-kuzmin.github.io/film-camera-repair/
-  (Лендинг, адаптив, scss)
+(Лендинг с препроцессором SCSS и модулями, адаптивная верстка по макету из Figma)
 - https://oleg-kuzmin.github.io/russian-travel/
-  (Лендинг, адаптив)
+(Лендинг с адаптивной версткой под 4 разрешения по макету из Figma)
 - https://oleg-kuzmin.github.io/how-to-learn/
-  (Лендинг)
+(Первый учебный лендинг от Яндекса, но с использованием семантики, анимации, несколько слоев фона)
