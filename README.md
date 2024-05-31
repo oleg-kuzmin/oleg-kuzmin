@@ -1,4 +1,4 @@
-# Олег Кузьмин
+# Олег Кузьмин (Frontend Разработчик)
 
 <span>info@oleg-kuzmin.ru</span>
 <span>|</span>
@@ -6,31 +6,41 @@
 <span>|</span>
 <span>https://t.me/Oleg_Kuzmin_Web</span>
 
-## Technical Skills:
+## Технические навыки:
 
-- HTML (актуальные теги и атрибуты, семантические теги, концепция потока документа)
-- CSS (актуальные свойства и их значения, специфичность селекторов и их вес, адаптивная верстка, верстка под perfect pixel, медиа-запросы, flex, grid, анимации и трансформации, препроцессор SASS (синтаксис SCSS), использую Код-стайл MaxGraph)
-- JAVASCRIPT (базовые и логические операторы, типы данных, функции, массивы, события, взаимодействие с DOM, взаимодействие с API, представление о классах и ООП, деструктуризация)
-- FIGMA (Верстка по макету)
-- BEM (Наименование классов, Наименование и структура файлов/папок)
-- GIT (базовые операции, работа c терминалом Gitbash, настройка работы и ключей ssh, небольшой опыт работы в команде)
-- WEBPACK, NPM (общая информация, установка и удаление зависимостей)
-- VSCODE (горячие клавиши, расширения, Prettier, настройка settings.json, печатаю слепым методом на русском и английском языках)
-- NEXT, REACT && REDUX (структура проекта, роутинг через App, создание, использование компонентов, использование состояния и хуков, Использование нескольких slices)
+- HTML
+- CSS
+- JAVASCRIPT
+- SASS
+- FIGMA
+- GIT
+- WEBPACK
+- VSCODE
+- REACT
+- REDUX
+- NEXT
+- TYPESCRIPT
+- LIBRARIES
 
-## Learning now:
+## Проекты:
 
-- React (функциональный подход), Next (через App Router) и TypeScript.
+### Next Food Delivery https://next-food-delivery-indol.vercel.app/
 
-## Projects:
+Приложение Next.js для desktop и mobile - сервис доставки еды.
+(5 страниц: главная, корзина, форма, условия доставки, акции).
 
-- https://next-food-delivery-indol.vercel.app/
-(Next-приложение: интернет-магазин на React и Redux toolkit, адаптив, верстка Perfect Pixel, несколько страниц с роутингом, api для поиска адреса, форма, кастомная валидация формы, используются дополнительные библиотеки swiper (настраивается адаптивно в зависимости от разрешения), react-transition-group)
-- https://oleg-kuzmin.github.io/mesto-project/
-(JS приложение на ООП, похоже на instagram с загрузкой красивых карточек мест, можно лайкать карточки, удалять, добавлять, менять данные пользователя, проект собирается с помощью Webpack, использует разные REST API к серверу, адаптивная верстка, bem, кастомная валидация формы, сделано по макету из Figma, Perfect Pixel)
-- https://oleg-kuzmin.github.io/film-camera-repair/
-(Лендинг с препроцессором SCSS и модулями, адаптивная верстка по макету из Figma)
-- https://oleg-kuzmin.github.io/russian-travel/
-(Лендинг с адаптивной версткой под 4 разрешения по макету из Figma)
-- https://oleg-kuzmin.github.io/how-to-learn/
-(Первый учебный лендинг от Яндекса, семантика, анимации, несколько слоев фона)
+### Mesto Project https://oleg-kuzmin.github.io/mesto-project/
+
+Приложение JavaScript для desktop и mobile. Проект похож на аналог instagram с загрузкой карточек красивых мест. Карточки выложены действующими пользователями.
+
+### Film Camera Repair https://oleg-kuzmin.github.io/film-camera-repair/
+
+Лендинг сайта по ремонту фотоаппаратов.
+
+### Russian Travel https://oleg-kuzmin.github.io/russian-travel/
+
+Лендинг сайта про путешествия.
+
+### How To Learn https://oleg-kuzmin.github.io/how-to-learn/
+
+Учебный лендинг от Яндекс.
