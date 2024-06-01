@@ -20,7 +20,7 @@
 - REDUX
 - NEXT
 - TYPESCRIPT
-- LIBRARIES
+- NPM
 
 ## Проекты:
 
