@@ -18,6 +18,7 @@
 - VSCODE
 - REACT
 - REDUX
+- VITE
 - NEXT
 - TYPESCRIPT
 - NPM
@@ -26,21 +27,20 @@
 
 ### Next Food Delivery https://next-food-delivery-indol.vercel.app/
 
-Приложение Next.js для desktop и mobile - сервис доставки еды.
-(5 страниц: главная, корзина, форма, условия доставки, акции).
+E-commerce сайт на Next.js и React для desktop и mobile - сервис доставки еды (5 страниц: главная, корзина, форма, условия доставки, акции).
 
 ### Mesto Project https://oleg-kuzmin.github.io/mesto-project/
 
-Приложение JavaScript для desktop и mobile. Проект похож на аналог instagram с загрузкой карточек красивых мест. Карточки выложены действующими пользователями.
+Сайт-приложение на ООП JavaScript (CRUD) для desktop и mobile. Проект связан с api от яндекса. Похож на аналог instagram с загрузкой карточек красивых мест. Общий стек карточек приходит из api.
 
 ### Film Camera Repair https://oleg-kuzmin.github.io/film-camera-repair/
 
-Лендинг сайта по ремонту фотоаппаратов.
+Сайт-лендинг по ремонту фотоаппаратов.
 
 ### Russian Travel https://oleg-kuzmin.github.io/russian-travel/
 
-Лендинг сайта про путешествия.
+Сайт-лендинг про путешествия.
 
 ### How To Learn https://oleg-kuzmin.github.io/how-to-learn/
 
-Учебный лендинг от Яндекс.
+Учебный сайт-лендинг от Яндекс.
