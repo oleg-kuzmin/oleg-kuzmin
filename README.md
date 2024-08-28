@@ -1,29 +1,24 @@
 # Олег Кузьмин (Frontend Разработчик)
 
-<span>info@oleg-kuzmin.ru</span>
+<a href="https://oleg-kuzmin.github.io/portfolio/">https://oleg-kuzmin.github.io/portfolio/</a>
 <span>|</span>
-<span>+7 (921) 899-40-62</span>
+<a href="tel:+79218994062">+7 (921) 899-40-62</a>
 <span>|</span>
-<span>https://t.me/Oleg_Kuzmin_Web</span>
+<a href="https://t.me/Oleg_Kuzmin_Web">Telegram: @Oleg_Kuzmin_Web</a>
 
 ## Технические навыки:
 
-- HTML
-- CSS
-- JAVASCRIPT
-- SASS
-- FIGMA
-- GIT
-- WEBPACK
-- VSCODE
-- REACT
-- REDUX
-- VITE
-- NEXT
-- TYPESCRIPT
-- NPM
+- HTML, CSS, JAVASCRIPT
+- SASS, LESS, FIGMA
+- GIT, NPM, VSCODE
+- REACT, REDUX, TYPESCRIPT
+- WEBPACK, VITE, NEXT
 
 ## Проекты:
+
+### Portfolio https://oleg-kuzmin.github.io/portfolio/
+
+Сайт-лендинг моего портфолио.
 
 ### Next Food Delivery https://next-food-delivery-indol.vercel.app/
 
