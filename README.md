@@ -8,17 +8,15 @@
 
 ## Технические навыки:
 
-- HTML, CSS, JAVASCRIPT
-- SASS, LESS, FIGMA
-- GIT, NPM, VSCODE
-- REACT, REDUX, TYPESCRIPT
-- WEBPACK, VITE, NEXT
+• HTML, CSS, JAVASCRIPT, SASS, FIGMA
+• GIT, WEBPACK, VSCODE, REACT, REDUX  
+• VITE, NEXT, TYPESCRIPT, NPM
 
 ## Проекты:
 
 ### Portfolio https://oleg-kuzmin.github.io/portfolio/
 
-Сайт-лендинг моего портфолио.
+Сайт-лендинг портфолио.
 
 ### Next Food Delivery https://next-food-delivery-indol.vercel.app/
 
