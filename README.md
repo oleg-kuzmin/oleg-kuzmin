@@ -1,7 +1,3 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Олег Кузьмин</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
-
 # Олег Кузьмин (Frontend Разработчик)
 
 <a href="https://oleg-kuzmin.github.io/portfolio/">https://oleg-kuzmin.github.io/portfolio/</a>
@@ -9,6 +5,11 @@
 <a href="tel:+79218994062">+7 (921) 899-40-62</a>
 <span>|</span>
 <a href="https://t.me/Oleg_Kuzmin_Web">Telegram: @Oleg_Kuzmin_Web</a>
+
+<a href="https://t.me/Oleg_Kuzmin_Web" target="_blank">
+  Telegram: @Oleg_Kuzmin_Web
+  <img src='./images/telegram.svg' alt="Логотип telegram" />
+</a>
 
 [![codewars](https://www.codewars.com/users/Oleg_Kuzmin/badges/small)](https://www.codewars.com/users/Oleg_Kuzmin)
 
