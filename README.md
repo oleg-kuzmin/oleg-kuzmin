@@ -19,7 +19,7 @@
 
 [![codewars](https://www.codewars.com/users/Oleg_Kuzmin/badges/small)](https://www.codewars.com/users/Oleg_Kuzmin)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oleg-kuzmin)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=oleg-kuzmin&theme=react)](https://git.io/streak-stats)
 
 ## Технические навыки:
 
