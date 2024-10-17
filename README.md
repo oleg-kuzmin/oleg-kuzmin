@@ -21,6 +21,14 @@
 
 ## Технические навыки:
 
+<div>  
+  <img src='./images/html.svg' alt="Логотип html" />   
+  <img src='./images/css.svg' alt="Логотип css" />  
+  <img src='./images/javascript.svg' alt="Логотип javascript" />  
+  <img src='./images/sass.svg' alt="Логотип sass" />  
+  <img src='./images/figma.svg' alt="Логотип figma" />
+</div>
+
 <div>
   <a href="https://oleg-kuzmin.github.io/portfolio">
     <img src='./images/html.svg' alt="Логотип html" />
