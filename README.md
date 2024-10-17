@@ -2,19 +2,19 @@
 
 <div>
   <a href="https://oleg-kuzmin.github.io/portfolio/" target="_blank" rel="noopener">
-    <img src='./contacts/portfolio.svg' alt="Сайт портфолио" />  
+    <img src='./contacts/portfolio2.svg' alt="Сайт портфолио" />  
   </a>
 </div>
 <div>
   <a href="https://t.me/Oleg_Kuzmin_Web" target="_blank">
-    <img src='./contacts/telegram.svg' alt="Логотип telegram" />
+    <img src='./contacts/telegram2.svg' alt="Логотип telegram" />
   </a>
 </div>
 <div>
-  <img src='./contacts/phone.svg' alt="Телефон" /> 
+  <img src='./contacts/phone2.svg' alt="Телефон" /> 
 </div>
 <div>
-  <img src='./contacts/email.svg' alt="Почта" /> 
+  <img src='./contacts/email2.svg' alt="Почта" /> 
 </div>
 
 [![codewars](https://www.codewars.com/users/Oleg_Kuzmin/badges/small)](https://www.codewars.com/users/Oleg_Kuzmin)
