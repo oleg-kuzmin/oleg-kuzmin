@@ -26,7 +26,7 @@
   </a>
 </div>
 
-<div>
+<div align="center">
   <a href="https://oleg-kuzmin.github.io/portfolio">
     <img src='./images/git.svg' alt="Логотип git" />
   </a>
@@ -44,7 +44,7 @@
   </a>
 </div>
 
-<div>
+<div align="center">
   <a href="https://oleg-kuzmin.github.io/portfolio">
     <img src='./images/vite.svg' alt="Логотип vite" />
   </a>
