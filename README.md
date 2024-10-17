@@ -6,7 +6,8 @@
 <span>|</span>
 <a href="https://t.me/Oleg_Kuzmin_Web">Telegram: @Oleg_Kuzmin_Web</a>
 
-<img src='./images/phone.svg' alt="Логотип telegram" /> +7 (921) 899-40-62
+<img src='./images/email.svg' alt="Почта" /> info@oleg-kuzmin.ru
+<img src='./images/phone.svg' alt="Телефон" /> +7 (921) 899-40-62
 <img src='./images/telegram.svg' alt="Логотип telegram" /> Telegram: @Oleg_Kuzmin_Web
 
 [![codewars](https://www.codewars.com/users/Oleg_Kuzmin/badges/small)](https://www.codewars.com/users/Oleg_Kuzmin)
