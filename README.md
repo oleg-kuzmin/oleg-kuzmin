@@ -19,7 +19,7 @@
 
 [![codewars](https://www.codewars.com/users/Oleg_Kuzmin/badges/small)](https://www.codewars.com/users/Oleg_Kuzmin)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleg-kuzmin)](https://github.com/oleg-kuzmin/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oleg-kuzmin)](https://git.io/streak-stats)
 
 ## Технические навыки:
 
