@@ -1,4 +1,6 @@
-<link rel="stylesheet" href="style.css" />
+<h1 align="center">Всем привет! Я <a href="https://oleg-kuzmin.github.io/portfolio/" target="_blank">Олег Кузьмин</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Frontend Разработчик (Санкт-Петербург, Россия)</h3>
 
 # Олег Кузьмин (Frontend Разработчик)
 
@@ -10,28 +12,8 @@
 
 ## Технические навыки:
 
-<div class="skills-container" style="display: flex; gap: 9px">
-  <div class="skill">
-    <img class="skill__icon" src='./images/skill-icon-html.svg' alt="Логотип html" />
-    <span class="skill__name">html</span>
-  </div>
-  <div class="skill">
-    <img class="skill__icon" src='./images/skill-icon-html.svg' alt="Логотип html" />
-    <span class="skill__name">html</span>
-  </div>
-  <div class="skill">
-    <img class="skill__icon" src='./images/skill-icon-html.svg' alt="Логотип html" />
-    <span class="skill__name">html</span>
-  </div>
-  <div class="skill">
-    <img class="skill__icon" src='./images/skill-icon-html.svg' alt="Логотип html" />
-    <span class="skill__name">html</span>
-  </div>
-  <div class="skill">
-    <img class="skill__icon" src='./images/skill-icon-html.svg' alt="Логотип html" />
-    <span class="skill__name">html</span>
-  </div>
-</div>
+<img src='./images/skill-icon-html.svg' alt="Логотип html" />
+<span>html</span>
 
 ## Технические навыки:
 
