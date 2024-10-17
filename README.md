@@ -10,7 +10,7 @@
 
 ## Технические навыки:
 
-<div class="skills-container">
+<div class="skills-container" style="display: flex; gap: 9px">
   <div class="skill">
     <img class="skill__icon" src='./images/skill-icon-html.svg' alt="Логотип html" />
     <span class="skill__name">html</span>
