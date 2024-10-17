@@ -6,10 +6,12 @@
 <span>|</span>
 <a href="https://t.me/Oleg_Kuzmin_Web">Telegram: @Oleg_Kuzmin_Web</a>
 
-<a href="https://t.me/Oleg_Kuzmin_Web" target="_blank">
-  Telegram: @Oleg_Kuzmin_Web
-  <img src='./images/telegram.svg' alt="Логотип telegram" />
-</a>
+<div>
+  <a href="https://t.me/Oleg_Kuzmin_Web" target="_blank">
+    <img src='./images/telegram.svg' alt="Логотип telegram" />
+    Telegram: @Oleg_Kuzmin_Web
+  </a>
+</div>
 
 [![codewars](https://www.codewars.com/users/Oleg_Kuzmin/badges/small)](https://www.codewars.com/users/Oleg_Kuzmin)
 
