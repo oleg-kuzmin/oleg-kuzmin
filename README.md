@@ -1,34 +1,4 @@
-<style>
-  .skill {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    gap: 13px;
-    width: 90px;
-    height: 90px;
-    border: 2px solid #000;
-    border-radius: 14px;
-    background-color: #fff;
-  }
-
-  .skill__icon { 
-    height: 33px;  
-  }
-
-  .skill__name {
-    text-transform: uppercase;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 1;
-  }
-  
-  .skills-container {
-    display: flex;
-    gap: 9px;
-  }
-</style>
+<link rel="stylesheet" href="style.css" />
 
 # Олег Кузьмин (Frontend Разработчик)
 
