@@ -21,7 +21,15 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=oleg-kuzmin&theme=react)](https://git.io/streak-stats)
 
-[![Oleg Kuzmin github activity graph](https://activity-graph.herokuapp.com/graph?username=oleg-kuzmin)](https://github.com/oleg-kuzmin/github-readme-activity-graph)
+![Карточка профиля](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oleg-kuzmin&theme=solarized_dark)
+
+![Статистика языков в коммитах](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oleg-kuzmin&theme=solarized_dark)
+
+![Статистика языков в репозиториях](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oleg-kuzmin&theme=solarized_dark)
+
+![Статистика профиля](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oleg-kuzmin&theme=solarized_dark)
+
+![Данные по коммитам за сутки](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oleg-kuzmin&theme=solarized_dark)
 
 ## Технические навыки:
 
