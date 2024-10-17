@@ -1,20 +1,25 @@
 # Олег Кузьмин (Frontend Разработчик)
 
-<a href="https://oleg-kuzmin.github.io/portfolio/">
-  <img src='./contacts/portfolio2.svg' alt="Сайт портфолио" />  
-</a>
-
-<a href="https://oleg-kuzmin.github.io/portfolio/">
-  <img src='./contacts/telegram2.svg' alt="Логотип telegram" />
-</a>
-
-<a href="https://oleg-kuzmin.github.io/portfolio/">
-  <img src='./contacts/phone2.svg' alt="Телефон" />  
-</a>
-
-<a href="https://oleg-kuzmin.github.io/portfolio/">
-  <img src='./contacts/mail2.svg' alt="Почта" /> 
-</a>
+<div>
+  <a href="https://oleg-kuzmin.github.io/portfolio/">
+    <img src='./contacts/portfolio2.svg' alt="Сайт портфолио" />  
+  </a>
+</div>
+<div>
+  <a href="https://oleg-kuzmin.github.io/portfolio/">
+    <img src='./contacts/telegram2.svg' alt="Логотип telegram" />
+  </a>
+</div>
+<div>
+  <a href="https://oleg-kuzmin.github.io/portfolio/">
+    <img src='./contacts/phone2.svg' alt="Телефон" />  
+  </a>
+</div>
+<div>
+  <a href="https://oleg-kuzmin.github.io/portfolio/">
+    <img src='./contacts/mail2.svg' alt="Почта" /> 
+  </a>
+</div>
 
 [![codewars](https://www.codewars.com/users/Oleg_Kuzmin/badges/small)](https://www.codewars.com/users/Oleg_Kuzmin)
 
