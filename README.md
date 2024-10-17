@@ -1,8 +1,9 @@
 # Олег Кузьмин (Frontend Разработчик)
 
-<a href="https://oleg-kuzmin.github.io/portfolio/">https://oleg-kuzmin.github.io/portfolio/</a>
+<a href="https://oleg-kuzmin.github.io/portfolio/">
+  <img src='./contacts/portfolio2.svg' alt="Сайт портфолио" />  
+</a>
 
-<img src='./contacts/portfolio2.svg' alt="Сайт портфолио" />
 <img src='./contacts/telegram2.svg' alt="Логотип telegram" />
 <img src='./contacts/phone2.svg' alt="Телефон" />
 <img src='./contacts/mail2.svg' alt="Почта" />
