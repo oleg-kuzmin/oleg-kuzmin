@@ -1,14 +1,10 @@
 # Олег Кузьмин (Frontend Разработчик)
 
 <a href="https://oleg-kuzmin.github.io/portfolio/">https://oleg-kuzmin.github.io/portfolio/</a>
-<span>|</span>
-<a href="tel:+79218994062">+7 (921) 899-40-62</a>
-<span>|</span>
-<a href="https://t.me/Oleg_Kuzmin_Web">Telegram: @Oleg_Kuzmin_Web</a>
 
-<img src='./images/email.svg' alt="Почта" /> info@oleg-kuzmin.ru
-<img src='./images/phone.svg' alt="Телефон" /> +7 (921) 899-40-62
 <img src='./images/telegram.svg' alt="Логотип telegram" /> Telegram: @Oleg_Kuzmin_Web
+<img src='./images/phone.svg' alt="Телефон" /> +7 (921) 899-40-62
+<img src='./images/email.svg' alt="Почта" /> info@oleg-kuzmin.ru
 
 [![codewars](https://www.codewars.com/users/Oleg_Kuzmin/badges/small)](https://www.codewars.com/users/Oleg_Kuzmin)
 
