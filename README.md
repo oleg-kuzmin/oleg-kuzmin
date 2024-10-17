@@ -59,12 +59,6 @@
   </a>
 </div>
 
-## Технические навыки:
-
-- HTML, CSS, JAVASCRIPT, SASS, FIGMA
-- GIT, WEBPACK, VSCODE, REACT, REDUX
-- VITE, NEXT, TYPESCRIPT, NPM
-
 ## Проекты:
 
 ### Portfolio https://oleg-kuzmin.github.io/portfolio/
