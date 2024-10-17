@@ -59,7 +59,7 @@
   </a>
 </div>
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/Oleg_Kuzmin)
+[![codewars](https://www.codewars.com/users/Oleg_Kuzmin/badges/large)](https://www.codewars.com/users/Oleg_Kuzmin)
 
 ## Проекты:
 
