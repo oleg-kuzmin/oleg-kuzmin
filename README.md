@@ -17,7 +17,7 @@
 </div>
 <div>
   <a href="mailto:info@oleg-kuzmin.ru" target="_blank">
-    <img src='./contacts/mail6.svg' alt="Почта" /> 
+    <img src='./contacts/mail7.svg' alt="Почта" /> 
   </a>
 </div>
 
