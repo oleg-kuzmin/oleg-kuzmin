@@ -3,8 +3,8 @@
 <a href="https://oleg-kuzmin.github.io/portfolio/">https://oleg-kuzmin.github.io/portfolio/</a>
 
 <div style="vertical-align: middle">
-  - <img src='./images/telegram.svg' alt="Логотип telegram" /> 
-  Telegram: @Oleg_Kuzmin_Web
+  <img src='./images/telegram.svg' alt="Логотип telegram" style="vertical-align: middle"/> 
+  <span style="vertical-align: middle">Telegram: @Oleg_Kuzmin_Web</span>
 </div>
 
 - <img src='./images/telegram.svg' alt="Логотип telegram" /> Telegram: @Oleg_Kuzmin_Web
