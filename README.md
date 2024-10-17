@@ -5,6 +5,7 @@
 <a href="tel:+79218994062">+7 (921) 899-40-62</a>
 <span>|</span>
 <a href="https://t.me/Oleg_Kuzmin_Web">Telegram: @Oleg_Kuzmin_Web</a>
+[![codewars](https://www.codewars.com/users/Oleg_Kuzmin/badges/micro)](https://www.codewars.com/users/Oleg_Kuzmin)
 
 [![codewars](https://www.codewars.com/users/Oleg_Kuzmin/badges/large)](https://www.codewars.com/users/Oleg_Kuzmin)
 
