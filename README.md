@@ -1,8 +1,8 @@
 # Олег Кузьмин (Frontend Разработчик)
 
-<div>
+<div target="_blank">
   <a href="https://oleg-kuzmin.github.io/portfolio/" target="_blank">
-    <img src='./contacts/portfolio2.svg' alt="Сайт портфолио" />  
+    <img src='./contacts/portfolio2.svg' alt="Сайт портфолио" target="_blank"/>  
   </a>
 </div>
 <div>
