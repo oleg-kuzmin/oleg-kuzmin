@@ -9,16 +9,16 @@
 ## Технические навыки:
 
 <div align="center">
-  <a href="https://oleg-kuzmin.github.io/portfolio">
+  <a href="https://oleg-kuzmin.github.io/portfolio" target="_blank">
     <img src='./images/html.svg' alt="Логотип html" />
   </a>
-  <a href="https://oleg-kuzmin.github.io/portfolio">
+  <a href="https://oleg-kuzmin.github.io/portfolio" target="_blank">
     <img src='./images/css.svg' alt="Логотип css" />
   </a>
-  <a href="https://oleg-kuzmin.github.io/portfolio">
+  <a href="https://oleg-kuzmin.github.io/portfolio" target="_blank">
     <img src='./images/javascript.svg' alt="Логотип javascript" />
   </a>
-  <a href="https://oleg-kuzmin.github.io/portfolio">
+  <a href="https://oleg-kuzmin.github.io/portfolio" target="_blank">
     <img src='./images/sass.svg' alt="Логотип sass" />
   </a>
   <a href="https://oleg-kuzmin.github.io/portfolio">
@@ -27,16 +27,16 @@
 </div>
 
 <div align="center">
-  <a href="https://oleg-kuzmin.github.io/portfolio">
+  <a href="https://oleg-kuzmin.github.io/portfolio" target="_blank">
     <img src='./images/git.svg' alt="Логотип git" />
   </a>
-  <a href="https://oleg-kuzmin.github.io/portfolio">
+  <a href="https://oleg-kuzmin.github.io/portfolio" target="_blank">
     <img src='./images/webpack.svg' alt="Логотип webpack" />
   </a>
-  <a href="https://oleg-kuzmin.github.io/portfolio">
+  <a href="https://oleg-kuzmin.github.io/portfolio" target="_blank">
     <img src='./images/vscode.svg' alt="Логотип vscode" />
   </a>
-  <a href="https://oleg-kuzmin.github.io/portfolio">
+  <a href="https://oleg-kuzmin.github.io/portfolio" target="_blank">
     <img src='./images/react.svg' alt="Логотип react" />
   </a>
   <a href="https://oleg-kuzmin.github.io/portfolio">
@@ -45,19 +45,21 @@
 </div>
 
 <div align="center">
-  <a href="https://oleg-kuzmin.github.io/portfolio">
+  <a href="https://oleg-kuzmin.github.io/portfolio" target="_blank">
     <img src='./images/vite.svg' alt="Логотип vite" />
   </a>
-  <a href="https://oleg-kuzmin.github.io/portfolio">
+  <a href="https://oleg-kuzmin.github.io/portfolio" target="_blank">
     <img src='./images/next.svg' alt="Логотип next" />
   </a>
-  <a href="https://oleg-kuzmin.github.io/portfolio">
+  <a href="https://oleg-kuzmin.github.io/portfolio" target="_blank">
     <img src='./images/typescript.svg' alt="Логотип typescript" />
   </a>
-    <a href="https://oleg-kuzmin.github.io/portfolio">
+    <a href="https://oleg-kuzmin.github.io/portfolio" target="_blank">
     <img src='./images/npm.svg' alt="Логотип npm" />
   </a>
 </div>
+
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/Oleg_Kuzmin)
 
 ## Проекты:
 
