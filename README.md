@@ -2,22 +2,22 @@
 
 <div>
   <a href="https://oleg-kuzmin.github.io/portfolio/" target="_blank" rel="noopener">
-    <img src='./contacts/portfolio2.svg' alt="Сайт портфолио" />  
+    <img src='./contacts/portfolio.svg' alt="Сайт портфолио" />  
   </a>
 </div>
 <div>
   <a href="https://t.me/Oleg_Kuzmin_Web" target="_blank">
-    <img src='./contacts/telegram2.svg' alt="Логотип telegram" />
+    <img src='./contacts/telegram.svg' alt="Логотип telegram" />
   </a>
 </div>
 <div>
   <a href="tel:+79218994062" target="_blank">
-    <img src='./contacts/phone2.svg' alt="Телефон" />  
+    <img src='./contacts/phone.svg' alt="Телефон" />  
   </a>
 </div>
 <div>
   <a href="mailto:info@oleg-kuzmin.ru" target="_blank">
-    <img src='./contacts/mail2.svg' alt="Почта" /> 
+    <img src='./contacts/mail.svg' alt="Почта" /> 
   </a>
 </div>
 
