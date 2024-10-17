@@ -8,6 +8,10 @@
 
 [![codewars](https://www.codewars.com/users/Oleg_Kuzmin/badges/large)](https://www.codewars.com/users/Oleg_Kuzmin)
 
+[![codewars](https://www.codewars.com/users/Oleg_Kuzmin/badges/small)](https://www.codewars.com/users/Oleg_Kuzmin)
+
+[![codewars](https://www.codewars.com/users/Oleg_Kuzmin/badges/micro)](https://www.codewars.com/users/Oleg_Kuzmin)
+
 ## Технические навыки:
 
 <div align="center">
