@@ -53,10 +53,11 @@
 ## Проекты:
 
 <div>
-  <span>Portfolio https://oleg-kuzmin.github.io/portfolio/</span><img src='./projects/portfolio.png' alt="#" width='200' />  
+  <h3>Portfolio https://oleg-kuzmin.github.io/portfolio/</h3>
+  <img src='./projects/portfolio.png' alt="#" width='200' />  
 </div>
 
-### Portfolio https://oleg-kuzmin.github.io/portfolio/
+### Portfolio https://oleg-kuzmin.github.io/portfolio/ <img src='./projects/portfolio.png' alt="#" width='100' />
 
 Сайт-лендинг портфолио.
 
