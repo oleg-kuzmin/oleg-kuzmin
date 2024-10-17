@@ -8,7 +8,7 @@
 
 ## Технические навыки:
 
-<div>
+<div align="center">
   <a href="https://oleg-kuzmin.github.io/portfolio">
     <img src='./images/html.svg' alt="Логотип html" />
   </a>
