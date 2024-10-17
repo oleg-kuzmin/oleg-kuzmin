@@ -1,6 +1,6 @@
 <h1 align="center">Всем привет! Я <a href="https://oleg-kuzmin.github.io/portfolio/" target="_blank">Олег Кузьмин</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Frontend Разработчик (Санкт-Петербург, Россия)</h3>
+<h3 align="center">Frontend Разработчик, Санкт-Петербург, Россия, 🇷🇺</h3>
 
 # Олег Кузьмин (Frontend Разработчик)
 
