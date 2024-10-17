@@ -6,6 +6,8 @@
 <span>|</span>
 <a href="https://t.me/Oleg_Kuzmin_Web">Telegram: @Oleg_Kuzmin_Web</a>
 
+[![codewars](https://www.codewars.com/users/Oleg_Kuzmin/badges/large)](https://www.codewars.com/users/Oleg_Kuzmin)
+
 ## Технические навыки:
 
 <div align="center">
@@ -58,8 +60,6 @@
     <img src='./images/npm.svg' alt="Логотип npm" />
   </a>
 </div>
-
-[![codewars](https://www.codewars.com/users/Oleg_Kuzmin/badges/large)](https://www.codewars.com/users/Oleg_Kuzmin)
 
 ## Проекты:
 
