@@ -2,6 +2,11 @@
 
 <a href="https://oleg-kuzmin.github.io/portfolio/">https://oleg-kuzmin.github.io/portfolio/</a>
 
+<div style="vertical-align: middle">
+  - <img src='./images/telegram.svg' alt="Логотип telegram" /> 
+  Telegram: @Oleg_Kuzmin_Web
+</div>
+
 - <img src='./images/telegram.svg' alt="Логотип telegram" /> Telegram: @Oleg_Kuzmin_Web
 - <img src='./images/phone.svg' alt="Телефон" /> +7 (921) 899-40-62
 - <img src='./images/email.svg' alt="Почта" /> info@oleg-kuzmin.ru
