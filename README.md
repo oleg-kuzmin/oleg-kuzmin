@@ -52,42 +52,26 @@
 
 ## Проекты:
 
-<div>
-  <h3>Portfolio https://oleg-kuzmin.github.io/portfolio</h3>
-  <p>Сайт-лендинг портфолио.</p>
-  <img src='./projects/portfolio.jpg' alt="#" width='200' />  
-</div>
+### Portfolio https://oleg-kuzmin.github.io/portfolio/
 
-<div>
-  <h3>Next Food Delivery https://next-food-delivery-indol.vercel.app</h3>
-  <p>
-    E-commerce сайт на Next.js и React для desktop и mobile - сервис доставки еды (5 страниц: главная, корзина, форма, условия доставки, акции).
-  </p>
-  <img src='./projects/food.jpg' alt="#" width='200' />  
-</div>
+Сайт-лендинг портфолио.
 
-<div>
-  <h3>Mesto Project https://oleg-kuzmin.github.io/mesto-project</h3>
-  <p>
-    Сайт-приложение на ООП JavaScript (CRUD) для desktop и mobile. Проект связан с api от яндекса. Похож на аналог instagram с загрузкой карточек красивых мест. Общий стек карточек приходит из api.
-  </p>
-  <img src='./projects/mesto.jpg' alt="#" width='200' />  
-</div>
+### Next Food Delivery https://next-food-delivery-indol.vercel.app/
 
-<div>
-  <h3>Film Camera Repair https://oleg-kuzmin.github.io/film-camera-repair</h3>
-  <p>Сайт-лендинг по ремонту фотоаппаратов.</p>
-  <img src='./projects/film.jpg' alt="#" width='200' />  
-</div>
+E-commerce сайт на Next.js и React для desktop и mobile - сервис доставки еды (5 страниц: главная, корзина, форма, условия доставки, акции).
 
-<div>
-  <h3>Russian Travel https://oleg-kuzmin.github.io/russian-travel</h3>
-  <p>Сайт-лендинг про путешествия.</p>
-  <img src='./projects/travel.jpg' alt="#" width='200' />  
-</div>
+### Mesto Project https://oleg-kuzmin.github.io/mesto-project/
 
-<div>
-  <h3>How To Learn https://oleg-kuzmin.github.io/how-to-learn</h3>
-  <p>Учебный сайт-лендинг от Яндекс.</p>
-  <img src='./projects/learn.jpg' alt="#" width='200' />  
-</div>
+Сайт-приложение на ООП JavaScript (CRUD) для desktop и mobile. Проект связан с api от яндекса. Похож на аналог instagram с загрузкой карточек красивых мест. Общий стек карточек приходит из api.
+
+### Film Camera Repair https://oleg-kuzmin.github.io/film-camera-repair/
+
+Сайт-лендинг по ремонту фотоаппаратов.
+
+### Russian Travel https://oleg-kuzmin.github.io/russian-travel/
+
+Сайт-лендинг про путешествия.
+
+### How To Learn https://oleg-kuzmin.github.io/how-to-learn/
+
+Учебный сайт-лендинг от Яндекс.
