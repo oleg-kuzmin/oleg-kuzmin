@@ -21,6 +21,12 @@
   </a>
 </div>
 
+<div>
+  <a href="https://www.codewars.com/users/Oleg_Kuzmin">
+    <img src='https://www.codewars.com/users/Oleg_Kuzmin/badges/small' alt="codewars" /> 
+  </a>
+</div>
+
 [![codewars](https://www.codewars.com/users/Oleg_Kuzmin/badges/small)](https://www.codewars.com/users/Oleg_Kuzmin)
 
 ## Технические навыки:
