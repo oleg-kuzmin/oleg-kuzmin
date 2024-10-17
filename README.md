@@ -6,17 +6,17 @@
   </a>
 </div>
 <div>
-  <a href="https://oleg-kuzmin.github.io/portfolio/" target="_blank">
+  <a href="https://t.me/Oleg_Kuzmin_Web" target="_blank">
     <img src='./contacts/telegram2.svg' alt="Логотип telegram" />
   </a>
 </div>
 <div>
-  <a href="https://oleg-kuzmin.github.io/portfolio/" target="_blank">
+  <a href="tel:+79218994062" target="_blank">
     <img src='./contacts/phone2.svg' alt="Телефон" />  
   </a>
 </div>
 <div>
-  <a href="https://oleg-kuzmin.github.io/portfolio/" target="_blank">
+  <a href="mailto:info@oleg-kuzmin.ru" target="_blank">
     <img src='./contacts/mail2.svg' alt="Почта" /> 
   </a>
 </div>
@@ -25,7 +25,7 @@
 
 ## Технические навыки:
 
-<div align="center">
+<div>
   <a href="https://oleg-kuzmin.github.io/portfolio" target="_blank">
     <img src='./images/html.svg' alt="Логотип html" />
   </a>
@@ -43,7 +43,7 @@
   </a>
 </div>
 
-<div align="center">
+<div>
   <a href="https://oleg-kuzmin.github.io/portfolio" target="_blank">
     <img src='./images/git.svg' alt="Логотип git" />
   </a>
@@ -61,7 +61,7 @@
   </a>
 </div>
 
-<div align="center">
+<div>
   <a href="https://oleg-kuzmin.github.io/portfolio" target="_blank">
     <img src='./images/vite.svg' alt="Логотип vite" />
   </a>
