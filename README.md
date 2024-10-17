@@ -6,19 +6,11 @@
 <span>|</span>
 <a href="https://t.me/Oleg_Kuzmin_Web">Telegram: @Oleg_Kuzmin_Web</a>
 
-<div>
-  <a href="https://t.me/Oleg_Kuzmin_Web" target="_blank">
-    <img src='./images/phone.svg' alt="Логотип telegram" />
-    +7 (921) 899-40-62
-  </a>
-</div>
+<img src='./images/phone.svg' alt="Логотип telegram" />
++7 (921) 899-40-62
 
-<div>
-  <a href="https://t.me/Oleg_Kuzmin_Web" target="_blank">
-    <img src='./images/telegram.svg' alt="Логотип telegram" />
-    Telegram: @Oleg_Kuzmin_Web
-  </a>
-</div>
+<img src='./images/telegram.svg' alt="Логотип telegram" />
+Telegram: @Oleg_Kuzmin_Web
 
 [![codewars](https://www.codewars.com/users/Oleg_Kuzmin/badges/small)](https://www.codewars.com/users/Oleg_Kuzmin)
 
