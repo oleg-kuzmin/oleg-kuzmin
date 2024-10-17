@@ -8,12 +8,22 @@
 
 ## Технические навыки:
 
-<img src='./images/1.svg' alt="Логотип html" />
-<img src='./images/2.svg' alt="Логотип html" />
-<img src='./images/3.svg' alt="Логотип html" />
-<img src='./images/1.svg' alt="Логотип html" />
-<img src='./images/2.svg' alt="Логотип html" />
-<img src='./images/3.svg' alt="Логотип html" />
+<a href="https://oleg-kuzmin.github.io/portfolio/">
+  <img src='./images/1.svg' alt="Логотип html" />
+</a>
+<a href="https://oleg-kuzmin.github.io/portfolio/">
+  <img src='./images/1.svg' alt="Логотип html" />
+</a>
+<a href="https://oleg-kuzmin.github.io/portfolio/">
+  <img src='./images/1.svg' alt="Логотип html" />
+</a>
+<a href="https://oleg-kuzmin.github.io/portfolio/">
+  <img src='./images/1.svg' alt="Логотип html" />
+</a>
+<a href="https://oleg-kuzmin.github.io/portfolio/">
+  <img src='./images/1.svg' alt="Логотип html" />
+</a>
+
 
 ## Технические навыки:
 
