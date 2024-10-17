@@ -1,7 +1,10 @@
 # Олег Кузьмин (Frontend Разработчик)
 
-<a href="https://oleg-kuzmin.github.io/portfolio/">https://oleg-kuzmin.github.io/portfolio/</a>
-
+<div>
+  <a href="https://oleg-kuzmin.github.io/portfolio/" target="_blank" rel="noopener">
+    <img src='./contacts/portfolio.svg' alt="Сайт портфолио" />  
+  </a>
+</div>
 <div>
   <a href="https://t.me/Oleg_Kuzmin_Web" target="_blank">
     <img src='./contacts/telegram.svg' alt="Логотип telegram" />
@@ -17,12 +20,6 @@
 [![codewars](https://www.codewars.com/users/Oleg_Kuzmin/badges/small)](https://www.codewars.com/users/Oleg_Kuzmin)
 
 ## Технические навыки:
-
-<div>
-  <a href="https://oleg-kuzmin.github.io/portfolio/" target="_blank" rel="noopener">
-    <img src='./contacts/portfolio.svg' alt="Сайт портфолио" />  
-  </a>
-</div>
 
 <div>
   <a href="https://oleg-kuzmin.github.io/portfolio">
