@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://oleg-kuzmin.github.io/portfolio/" target="_blank" rel="noopener">
-    <img src='./contacts/portfolio.svg' alt="Сайт портфолио" />  
+    <img src='./contacts/portfolio2.svg' alt="Сайт портфолио" />  
   </a>
 </div>
 <div>
