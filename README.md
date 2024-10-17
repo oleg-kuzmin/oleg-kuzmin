@@ -8,22 +8,36 @@
 
 ## Технические навыки:
 
-<a href="https://oleg-kuzmin.github.io/portfolio/">
+<a href="https://oleg-kuzmin.github.io/portfolio">
   <img src='./images/1.svg' alt="Логотип html" />
 </a>
-<a href="https://oleg-kuzmin.github.io/portfolio/">
+<a href="https://oleg-kuzmin.github.io/portfolio">
   <img src='./images/1.svg' alt="Логотип html" />
 </a>
-<a href="https://oleg-kuzmin.github.io/portfolio/">
+<a href="https://oleg-kuzmin.github.io/portfolio">
   <img src='./images/1.svg' alt="Логотип html" />
 </a>
-<a href="https://oleg-kuzmin.github.io/portfolio/">
+<a href="https://oleg-kuzmin.github.io/portfolio">
   <img src='./images/1.svg' alt="Логотип html" />
 </a>
-<a href="https://oleg-kuzmin.github.io/portfolio/">
+<a href="https://oleg-kuzmin.github.io/portfolio">
   <img src='./images/1.svg' alt="Логотип html" />
 </a>
-
+<a href="https://oleg-kuzmin.github.io/portfolio">
+  <img src='./images/1.svg' alt="Логотип html" />
+</a>
+<a href="https://oleg-kuzmin.github.io/portfolio">
+  <img src='./images/1.svg' alt="Логотип html" />
+</a>
+<a href="https://oleg-kuzmin.github.io/portfolio">
+  <img src='./images/1.svg' alt="Логотип html" />
+</a>
+<a href="https://oleg-kuzmin.github.io/portfolio">
+  <img src='./images/1.svg' alt="Логотип html" />
+</a>
+<a href="https://oleg-kuzmin.github.io/portfolio">
+  <img src='./images/1.svg' alt="Логотип html" />
+</a>
 
 ## Технические навыки:
 
