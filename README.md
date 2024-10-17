@@ -17,9 +17,13 @@
   <img src='./contacts/email2.svg' alt="Почта" /> 
 </div>
 
-[![Codewars](https://www.codewars.com/users/Oleg_Kuzmin/badges/small)](https://www.codewars.com/users/Oleg_Kuzmin)
-![Карточка](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oleg-kuzmin&theme=solarized_dark)
-![Статистика](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oleg-kuzmin&theme=solarized_dark)
+[![codewars](https://www.codewars.com/users/Oleg_Kuzmin/badges/small)](https://www.codewars.com/users/Oleg_Kuzmin)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=oleg-kuzmin&theme=solarized_dark)](https://git.io/streak-stats)
+
+![Карточка профиля](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oleg-kuzmin&theme=solarized_dark)
+
+![Статистика языков в репозиториях](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oleg-kuzmin&theme=solarized_dark)
 
 ## Технические навыки:
 
