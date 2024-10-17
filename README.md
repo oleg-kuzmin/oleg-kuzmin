@@ -1,3 +1,35 @@
+<style>
+  .skill {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 13px;
+    width: 90px;
+    height: 90px;
+    border: 2px solid #000;
+    border-radius: 14px;
+    background-color: #fff;
+  }
+
+  .skill__icon { 
+    height: 33px;  
+  }
+
+  .skill__name {
+    text-transform: uppercase;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1;
+  }
+  
+  .skills-container {
+    display: flex;
+    gap: 9px;
+  }
+</style>
+
 # Олег Кузьмин (Frontend Разработчик)
 
 <a href="https://oleg-kuzmin.github.io/portfolio/">https://oleg-kuzmin.github.io/portfolio/</a>
@@ -8,8 +40,33 @@
 
 ## Технические навыки:
 
+<div class="skills-container">
+  <div class="skill">
+    <img class="skill__icon" src='./images/skill-icon-html.svg' alt="Логотип html" />
+    <span class="skill__name">html</span>
+  </div>
+  <div class="skill">
+    <img class="skill__icon" src='./images/skill-icon-html.svg' alt="Логотип html" />
+    <span class="skill__name">html</span>
+  </div>
+  <div class="skill">
+    <img class="skill__icon" src='./images/skill-icon-html.svg' alt="Логотип html" />
+    <span class="skill__name">html</span>
+  </div>
+  <div class="skill">
+    <img class="skill__icon" src='./images/skill-icon-html.svg' alt="Логотип html" />
+    <span class="skill__name">html</span>
+  </div>
+  <div class="skill">
+    <img class="skill__icon" src='./images/skill-icon-html.svg' alt="Логотип html" />
+    <span class="skill__name">html</span>
+  </div>
+</div>
+
+## Технические навыки:
+
 - HTML, CSS, JAVASCRIPT, SASS, FIGMA
-- GIT, WEBPACK, VSCODE, REACT, REDUX  
+- GIT, WEBPACK, VSCODE, REACT, REDUX
 - VITE, NEXT, TYPESCRIPT, NPM
 
 ## Проекты:
