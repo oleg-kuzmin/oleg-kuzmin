@@ -52,7 +52,7 @@
 
 ## Проекты:
 
-<img src='./projects/project-portfolio-mobile.png' alt="#" width='300' /> 
+<img src='./projects/portfolio.png' alt="#" width='300' />
 
 ### Portfolio https://oleg-kuzmin.github.io/portfolio/
 
