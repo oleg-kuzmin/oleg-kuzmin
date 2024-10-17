@@ -21,9 +21,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=oleg-kuzmin&theme=react)](https://git.io/streak-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oleg-kuzmin&repo=github-readme-stats)](https://oleg-kuzmin.github.io/portfolio/)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oleg-kuzmin&repo=github-readme-stats)](https://oleg-kuzmin.github.io/portfolio/)
+[![Oleg Kuzmin github activity graph](https://activity-graph.herokuapp.com/graph?username=oleg-kuzmin)](https://github.com/oleg-kuzmin/github-readme-activity-graph)
 
 ## Технические навыки:
 
