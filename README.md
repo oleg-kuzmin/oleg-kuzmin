@@ -19,11 +19,11 @@
 
 [![codewars](https://www.codewars.com/users/Oleg_Kuzmin/badges/small)](https://www.codewars.com/users/Oleg_Kuzmin)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=oleg-kuzmin&theme=solarized_dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=oleg-kuzmin&theme=react)](https://git.io/streak-stats)
 
-![Карточка профиля](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oleg-kuzmin&theme=solarized_dark)
+![Карточка профиля](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oleg-kuzmin&theme=react)
 
-![Статистика языков в репозиториях](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oleg-kuzmin&theme=solarized_dark)
+![Статистика языков в репозиториях](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oleg-kuzmin&theme=react)
 
 ## Технические навыки:
 
