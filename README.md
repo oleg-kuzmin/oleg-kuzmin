@@ -55,7 +55,7 @@
 <div>
   <h3>Portfolio https://oleg-kuzmin.github.io/portfolio/</h3>
   <p>Сайт-лендинг портфолио.</p>
-  <img src='./projects/portfolio.png' alt="#" width='100' />  
+  <img src='./projects/portfolio.jpg' alt="#" width='200' />  
 </div>
 
 ### Next Food Delivery https://next-food-delivery-indol.vercel.app/
