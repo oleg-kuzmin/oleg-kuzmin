@@ -1,6 +1,6 @@
 # Олег Кузьмин (Frontend Разработчик)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=FF6C00&background=FFFFFF00&repeat=false&width=435&lines=Hi+there%2C+I'm+Oleg+Kuzmin)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI+Semibold&weight=500&size=28&pause=1000&color=FF6C00&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=435&lines=Hi+there%2C+I'm+Oleg+Kuzmin)](https://git.io/typing-svg)
 
 <div>
   <a href="https://oleg-kuzmin.github.io/portfolio/" target="_blank" rel="noopener">
