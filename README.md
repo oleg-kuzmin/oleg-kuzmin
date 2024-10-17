@@ -2,10 +2,10 @@
 
 <a href="https://oleg-kuzmin.github.io/portfolio/">https://oleg-kuzmin.github.io/portfolio/</a>
 
-- <img src='./contacts/portfolio.svg' alt="Сайт портфолио" />
-- <img src='./contacts/telegram.svg' alt="Логотип telegram" />
-- <img src='./contacts/phone.svg' alt="Телефон" />
-- <img src='./contacts/mail.svg' alt="Почта" />
+<img src='./contacts/portfolio.svg' alt="Сайт портфолио" />
+<img src='./contacts/telegram.svg' alt="Логотип telegram" />
+<img src='./contacts/phone.svg' alt="Телефон" />
+<img src='./contacts/mail.svg' alt="Почта" />
 
 [![codewars](https://www.codewars.com/users/Oleg_Kuzmin/badges/small)](https://www.codewars.com/users/Oleg_Kuzmin)
 
