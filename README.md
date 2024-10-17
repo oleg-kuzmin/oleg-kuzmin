@@ -21,6 +21,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=oleg-kuzmin&theme=react)](https://git.io/streak-stats)
 
+[![Oleg Kuzmin GitHub stats](https://github-readme-stats.vercel.app/api?username=oleg-kuzmin)](https://github.com/oleg-kuzmin/github-readme-stats)
+
 ## Технические навыки:
 
 <div>  
