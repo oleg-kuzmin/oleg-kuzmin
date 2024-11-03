@@ -17,7 +17,7 @@
   <img src='./contacts/email.svg' alt="Почта" /> 
 </div>
 
-[![codewars](https://www.codewars.com/users/github-oleg-kuzmin/badges/small)](https://www.codewars.com/users/github-oleg-kuzmin)
+[![codewars](https://www.codewars.com/users/oleg-kuzmin/badges/small)](https://www.codewars.com/users/oleg-kuzmin)
 
 ![Карточка профиля](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oleg-kuzmin&theme=solarized_dark)
 
