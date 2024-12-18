@@ -42,24 +42,32 @@
 
 ### Portfolio https://oleg-kuzmin.github.io/portfolio/
 
-Сайт-лендинг портфолио.
+Сайт-лэндинг портфолио.
 
 ### Next Food Delivery https://next-food-delivery-indol.vercel.app/
 
-E-commerce сайт на Next.js и React для desktop и mobile - сервис доставки еды (5 страниц: главная, корзина, форма, условия доставки, акции).
+E-commerce сайт на Next.js и React для desktop и mobile - сервис доставки еды (5 страниц: главная, корзина, форма, условия доставки, акции). Стороннее api для поиска адреса.
+
+### https://door-locks-vite.vercel.app/
+
+E-commerce сайт на Vite и React для desktop и mobile - продажа дверных замков (сейчас в разработке).
+
+### https://oleg-kuzmin.github.io/colors/
+
+E-commerce сайт на Webpack и Pug для desktop и mobile - продажа красок. Стороннее api (mock.api) для получения базы данных.
 
 ### Mesto Project https://oleg-kuzmin.github.io/mesto-project/
 
-Сайт-приложение на ООП JavaScript для desktop и mobile. Проект использует REST API с сервером. Похож на аналог instagram с загрузкой карточек красивых мест. Общий стек карточек приходит из api.
+Сайт-приложение на ООП JavaScript для desktop и mobile. Стороннее api (yandex) для получения, добавления, удаления, изменения данных. Похож на аналог instagram с загрузкой карточек красивых мест.
 
 ### Film Camera Repair https://oleg-kuzmin.github.io/film-camera-repair/
 
-Сайт-лендинг по ремонту фотоаппаратов.
+Сайт-лэндинг по ремонту фотоаппаратов.
 
 ### Russian Travel https://oleg-kuzmin.github.io/russian-travel/
 
-Сайт-лендинг про путешествия.
+Сайт-лэндинг про путешествия.
 
 ### How To Learn https://oleg-kuzmin.github.io/how-to-learn/
 
-Учебный сайт-лендинг от Яндекс.
+Учебный сайт-лэндинг от Яндекс.
