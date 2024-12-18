@@ -48,11 +48,11 @@
 
 E-commerce сайт на Next.js и React для desktop и mobile - сервис доставки еды (5 страниц: главная, корзина, форма, условия доставки, акции). Стороннее api для поиска адреса.
 
-### https://door-locks-vite.vercel.app/
+### Door Locks Vite https://door-locks-vite.vercel.app/
 
 E-commerce сайт на Vite и React для desktop и mobile - продажа дверных замков (сейчас в разработке).
 
-### https://oleg-kuzmin.github.io/colors/
+### Colors https://oleg-kuzmin.github.io/colors/
 
 E-commerce сайт на Webpack и Pug для desktop и mobile - продажа красок. Стороннее api (mock.api) для получения базы данных.
 
