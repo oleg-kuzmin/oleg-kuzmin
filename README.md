@@ -11,8 +11,6 @@
 
 ![Статистика языков в репозиториях](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oleg-kuzmin&theme=solarized_dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=oleg-kuzmin&theme=solarized_dark)](https://git.io/streak-stats)
-
 ## Технические навыки:
 
 <div>  
