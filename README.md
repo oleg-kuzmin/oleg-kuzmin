@@ -1,5 +1,10 @@
 # Олег Кузьмин (Frontend Разработчик)
 
+- ## Сайт портфолио
+- ## Telegram: @Oleg_Kuzmin_Web
+- ## info@oleg-kuzmin.ru
+- ## +7 (921) 899-40-62
+
 - <a href='https://oleg-kuzmin.github.io/portfolio'>Сайт портфолио</a>
 - <a href='https://t.me/Oleg_Kuzmin_Web'>Telegram: @Oleg_Kuzmin_Web</a>
 - <a href='mailto:info@oleg-kuzmin.ru'>info@oleg-kuzmin.ru</a>
