@@ -20,18 +20,12 @@
   <img src='./images2/sass.svg' alt="Логотип sass" />  
   <img src='./images2/figma.svg' alt="Логотип figma" />
   <img src='./images2/git.svg' alt="Логотип git" />
-</div>
-
-<div>  
   <img src='./images2/webpack.svg' alt="Логотип webpack" />
   <img src='./images2/vscode.svg' alt="Логотип vscode" />
   <img src='./images2/react.svg' alt="Логотип react" />
   <img src='./images2/redux.svg' alt="Логотип redux" />
   <img src='./images2/vite.svg' alt="Логотип vite" />
   <img src='./images2/next.svg' alt="Логотип next" />
-</div>
-
-<div>
   <img src='./images2/typescript.svg' alt="Логотип typescript" />
   <img src='./images2/npm.svg' alt="Логотип npm" />
 </div>
