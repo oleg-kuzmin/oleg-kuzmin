@@ -5,11 +5,13 @@
 - <a href='mailto:info@oleg-kuzmin.ru'>info@oleg-kuzmin.ru</a>
 - <a href='tel:+79218994062'>+7 (921) 899-40-62</a>
 
-[![codewars](https://www.codewars.com/users/oleg-kuzmin/badges/small)](https://www.codewars.com/users/oleg-kuzmin)
+[![codewars](https://www.codewars.com/users/oleg-kuzmin/badges/large)](https://www.codewars.com/users/oleg-kuzmin)
 
-![Карточка профиля](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oleg-kuzmin&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oleg-kuzmin&theme=aura)
 
-![Статистика языков в репозиториях](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oleg-kuzmin&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oleg-kuzmin&theme=aura) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oleg-kuzmin&theme=aura)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=oleg-kuzmin&theme=aura) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oleg-kuzmin&theme=aura&utcOffset=8)
 
 ## Технические навыки:
 
@@ -32,34 +34,38 @@
 
 ## Проекты:
 
-### Portfolio https://oleg-kuzmin.github.io/portfolio/
+### Portfolio https://oleg-kuzmin.github.io/portfolio
 
 Сайт-лэндинг портфолио.
 
-### Next Food Delivery https://next-food-delivery-indol.vercel.app/
+### Door Locks (в разработке) https://door-locks-vite.vercel.app
 
-E-commerce сайт на Next.js и React для desktop и mobile - сервис доставки еды (5 страниц: главная, корзина, форма, условия доставки, акции). Стороннее api для поиска адреса.
+E-commerce веб-приложение на React+Typescript (Vite) - магазин дверных замков.
 
-### Door Locks Vite https://door-locks-vite.vercel.app/
+### Food Delivery https://next-food-delivery-indol.vercel.app
 
-E-commerce сайт на Vite и React для desktop и mobile - продажа дверных замков (сейчас в разработке).
+E-commerce веб-приложение на React (Next.js) - сервис доставки еды (5 страниц: главная, корзина, форма, условия доставки, акции). Внешнее api (dadata.ru) для получения адреса.
 
-### Colors https://oleg-kuzmin.github.io/colors/
+### Colors https://oleg-kuzmin.github.io/colors
 
-E-commerce сайт на Webpack и Pug для desktop и mobile - продажа красок. Стороннее api (mock.api) для получения базы данных.
+E-commerce веб-приложение на JavaScript и Pug (Webpack) - магазин красок. Внешнее api (mock.api) для получения данных.
 
-### Mesto Project https://oleg-kuzmin.github.io/mesto-project/
+### Frontend Cats https://oleg-kuzmin.github.io/frontend-challenge
 
-Сайт-приложение на ООП JavaScript для desktop и mobile. Стороннее api (yandex) для получения, добавления, удаления, изменения данных. Похож на аналог instagram с загрузкой карточек красивых мест.
+Веб-приложение на React+Typescript (Vite) - бесконечные картинки котиков. Внешнее api (thecatapi.com) для получения данных.
 
-### Film Camera Repair https://oleg-kuzmin.github.io/film-camera-repair/
+### Mesto Project https://oleg-kuzmin.github.io/mesto-project
+
+Веб-приложение JavaScript на классах ООП (Webpack) - общая галерея фотографий красивых мест от разных пользователей с возможностью получения, добавления, удаления, изменения фото. Используется внешнее api (api.nomoreparties.co).
+
+### Film Camera Repair https://oleg-kuzmin.github.io/film-camera-repair
 
 Сайт-лэндинг по ремонту фотоаппаратов.
 
-### Russian Travel https://oleg-kuzmin.github.io/russian-travel/
+### Russian Travel https://oleg-kuzmin.github.io/russian-travel
 
 Сайт-лэндинг про путешествия.
 
-### How To Learn https://oleg-kuzmin.github.io/how-to-learn/
+### How To Learn https://oleg-kuzmin.github.io/how-to-learn
 
 Учебный сайт-лэндинг от Яндекс.
