@@ -1,9 +1,3 @@
-<style>
-  img {
-    user-select: none;
-  }
-</style>
-
 # Олег Кузьмин (Frontend Разработчик)
 
 - <a href='https://oleg-kuzmin.github.io/portfolio'><b>Сайт портфолио</b></a>
