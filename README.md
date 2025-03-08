@@ -16,20 +16,20 @@
 ## Технические навыки:
 
 <div>  
-  <img src='./images2/html.svg' alt="Логотип html" />   
-  <img src='./images2/css.svg' alt="Логотип css" />  
-  <img src='./images2/javascript.svg' alt="Логотип javascript" />  
-  <img src='./images2/sass.svg' alt="Логотип sass" />  
-  <img src='./images2/figma.svg' alt="Логотип figma" />
-  <img src='./images2/git.svg' alt="Логотип git" />
-  <img src='./images2/webpack.svg' alt="Логотип webpack" />
-  <img src='./images2/vscode.svg' alt="Логотип vscode" />
-  <img src='./images2/react.svg' alt="Логотип react" />
-  <img src='./images2/redux.svg' alt="Логотип redux" />
-  <img src='./images2/vite.svg' alt="Логотип vite" />
-  <img src='./images2/next.svg' alt="Логотип next" />
-  <img src='./images2/typescript.svg' alt="Логотип typescript" />
-  <img src='./images2/npm.svg' alt="Логотип npm" />
+  <img src='./images/html.svg' alt="Логотип html" />   
+  <img src='./images/css.svg' alt="Логотип css" />  
+  <img src='./images/javascript.svg' alt="Логотип javascript" />  
+  <img src='./images/sass.svg' alt="Логотип sass" />  
+  <img src='./images/figma.svg' alt="Логотип figma" />
+  <img src='./images/git.svg' alt="Логотип git" />
+  <img src='./images/webpack.svg' alt="Логотип webpack" />
+  <img src='./images/vscode.svg' alt="Логотип vscode" />
+  <img src='./images/react.svg' alt="Логотип react" />
+  <img src='./images/redux.svg' alt="Логотип redux" />
+  <img src='./images/vite.svg' alt="Логотип vite" />
+  <img src='./images/next.svg' alt="Логотип next" />
+  <img src='./images/typescript.svg' alt="Логотип typescript" />
+  <img src='./images/npm.svg' alt="Логотип npm" />
 </div>
 
 ## Проекты:
