@@ -11,8 +11,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oleg-kuzmin&theme=aura) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oleg-kuzmin&theme=aura)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=oleg-kuzmin&theme=aura) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oleg-kuzmin&theme=aura&utcOffset=8)
-
 ## Технические навыки:
 
 <div>  
