@@ -1,73 +1,73 @@
-# Олег Кузьмин (Frontend Разработчик)
+# Oleg Kuzmin (Frontend Developer)
 
-- <a href='https://oleg-kuzmin.github.io/portfolio'><b>Сайт портфолио</b></a>
+- <a href='https://oleg-kuzmin.github.io/portfolio'><b>Portfolio</b></a>
 - <a href='https://t.me/Oleg_Kuzmin_Web'><b>Telegram: @Oleg_Kuzmin_Web</b></a>
 - <a href='mailto:info@oleg-kuzmin.ru'><b>info@oleg-kuzmin.ru</b></a>
 - <a href='tel:+79218994062'><b>+7 (921) 899-40-62</b></a>
 
-[![codewars](https://www.codewars.com/users/oleg-kuzmin/badges/large)](https://www.codewars.com/users/oleg-kuzmin)
+[![codewars](https://www.codewars.com/users/oleg-kuzmin/badges/small)](https://www.codewars.com/users/oleg-kuzmin)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oleg-kuzmin&theme=aura)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oleg-kuzmin&theme=aura) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oleg-kuzmin&theme=aura)
 
-## Технические навыки:
+## Technical skills:
 
 <div>  
-  <img src='./images/html.svg' alt="Логотип html" />   
-  <img src='./images/css.svg' alt="Логотип css" />  
-  <img src='./images/javascript.svg' alt="Логотип javascript" />  
-  <img src='./images/sass.svg' alt="Логотип sass" />  
-  <img src='./images/figma.svg' alt="Логотип figma" />
-  <img src='./images/git.svg' alt="Логотип git" />
-  <img src='./images/webpack.svg' alt="Логотип webpack" />
-  <img src='./images/vscode.svg' alt="Логотип vscode" />
-  <img src='./images/react.svg' alt="Логотип react" />
-  <img src='./images/redux.svg' alt="Логотип redux" />
-  <img src='./images/vite.svg' alt="Логотип vite" />
-  <img src='./images/next.svg' alt="Логотип next" />
-  <img src='./images/typescript.svg' alt="Логотип typescript" />
-  <img src='./images/npm.svg' alt="Логотип npm" />
+  <img src='./images/html.svg' alt="Logo html" />   
+  <img src='./images/css.svg' alt="Logo css" />  
+  <img src='./images/javascript.svg' alt="Logo javascript" />  
+  <img src='./images/sass.svg' alt="Logo sass" />  
+  <img src='./images/figma.svg' alt="Logo figma" />
+  <img src='./images/git.svg' alt="Logo git" />
+  <img src='./images/webpack.svg' alt="Logo webpack" />
+  <img src='./images/vscode.svg' alt="Logo vscode" />
+  <img src='./images/react.svg' alt="Logo react" />
+  <img src='./images/redux.svg' alt="Logo redux" />
+  <img src='./images/vite.svg' alt="Logo vite" />
+  <img src='./images/next.svg' alt="Logo next" />
+  <img src='./images/typescript.svg' alt="Logo typescript" />
+  <img src='./images/npm.svg' alt="Logo npm" />
 </div>
 
-## Проекты:
+## Projects:
 
 - ### Portfolio https://oleg-kuzmin.github.io/portfolio
 
-Сайт-лэндинг портфолио.
+Portfolio landing site.
 
 - ### Food Delivery https://next-food-delivery-indol.vercel.app
 
-E-commerce веб-приложение на React (Next.js) - сервис доставки еды (5 страниц: главная, корзина, форма, условия доставки, акции). Внешнее api (dadata.ru) для получения адреса.
+E-commerce web application on React (Next.js) - food delivery service (5 pages: home, cart, form, delivery terms, promotions). External api (dadata.ru) for getting the address.
 
 - ### Lead Conveer https://oleg-kuzmin.github.io/leadconveer
 
-Сайт-лэндинг на React+Typescript (Next.js) - создание лидов для бизнеса.
+Landing site on React+Typescript (Next.js) - creating leads for business.
 
-- ### Door Locks (в разработке) https://door-locks-vite.vercel.app
+- ### Door Locks (in process) https://door-locks-vite.vercel.app
 
-E-commerce веб-приложение на React+Typescript (Vite) - магазин дверных замков.
+E-commerce web application on React+Typescript (Vite) - door locks store.
 
 - ### Colors https://oleg-kuzmin.github.io/colors
 
-E-commerce веб-приложение на JavaScript и Pug (Webpack) - магазин красок. Внешнее api (mockapi.io) для получения данных.
+E-commerce web application on JavaScript and Pug (Webpack) - paint store. External api (mockapi.io) for getting data.
 
 - ### Frontend Cats https://oleg-kuzmin.github.io/frontend-challenge
 
-Веб-приложение на React+Typescript (Vite) - бесконечные картинки котиков. Внешнее api (thecatapi.com) для получения данных.
+Web application on React+Typescript (Vite) - endless pictures of cats. External api (thecatapi.com) for getting data.
 
 - ### Mesto Project https://oleg-kuzmin.github.io/mesto-project
 
-Веб-приложение JavaScript на классах ООП (Webpack) - общая галерея фотографий красивых мест от разных пользователей с возможностью получения, добавления, удаления, изменения фото. Используется внешнее api (api.nomoreparties.co).
+JavaScript web application on OOP style (Webpack) - a common gallery of photos of beautiful places from different users with the ability to get, add, delete, change photos. External api is used (api.nomoreparties.co).
 
 - ### Film Camera Repair https://oleg-kuzmin.github.io/film-camera-repair
 
-Сайт-лэндинг по ремонту фотоаппаратов.
+Landing site for camera repair.
 
 - ### Russian Travel https://oleg-kuzmin.github.io/russian-travel
 
-Сайт-лэндинг про путешествия.
+Landing site about travel.
 
 - ### How To Learn https://oleg-kuzmin.github.io/how-to-learn
 
-Учебный сайт-лэндинг от Яндекс.
+Educational landing site from Yandex.
