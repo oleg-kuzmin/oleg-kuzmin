@@ -5,7 +5,7 @@
 - <a href='mailto:info@oleg-kuzmin.ru'><b>info@oleg-kuzmin.ru</b></a>
 - <a href='tel:+79218994062'><b>+7 (921) 899-40-62</b></a>
 
-[![codewars](https://www.codewars.com/users/oleg-kuzmin/badges/small)](https://www.codewars.com/users/oleg-kuzmin)
+[![codewars](https://www.codewars.com/users/oleg-kuzmin/badges/large)](https://www.codewars.com/users/oleg-kuzmin)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oleg-kuzmin&theme=aura)
 
