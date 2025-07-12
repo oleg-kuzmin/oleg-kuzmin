@@ -44,7 +44,7 @@ E-commerce web application on React (Next.js) - food delivery service (5 pages: 
 
 Landing site on React+Typescript (Next.js) - creating leads for business.
 
-- ### Door Locks (in process) https://door-locks-vite.vercel.app
+- ### Door Locks (in development) https://door-locks-vite.vercel.app
 
 E-commerce web application on React+Typescript (Vite) - door locks store.
 
