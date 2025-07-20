@@ -40,6 +40,10 @@ Portfolio landing site.
 
 E-commerce web application on React (Next.js) - food delivery service (5 pages: home, cart, form, delivery terms, promotions). External api (dadata.ru) for getting the address.
 
+- ### Car Tracker https://oleg-kuzmin.github.io/car-tracker
+
+SPA application for desktop on React+Typescript (Vite) - car tracking.
+
 - ### Lead Conveer https://oleg-kuzmin.github.io/leadconveer
 
 Landing site on React+Typescript (Next.js) - creating leads for business.
